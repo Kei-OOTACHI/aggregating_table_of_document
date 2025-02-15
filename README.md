@@ -1,0 +1,2 @@
+# aggregating_table_of_document
+表集計自動化システムのドキュメントのコンテナバインドスクリプト
